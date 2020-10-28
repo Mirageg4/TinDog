@@ -5,5 +5,10 @@
 h1 {
     font-size: 3rem;
     font-family: "Montserrat-Black";
+    font-weight: bolder;
     line-height: 1.5;
+}
+
+.container-fluid {
+    padding:3% 15%;
 }
