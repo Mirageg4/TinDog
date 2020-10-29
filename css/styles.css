@@ -84,7 +84,6 @@ p {
 }
 
 #testimonials {
-    padding: 7% 15%;
     background-color: #ef8172;
     color: #ffffff;
     text-align: center; 
@@ -98,10 +97,14 @@ h2 {
     text-align: center; 
 }
 
-.pebbles {
+.testimonial-image {
    width: 10%;
    border-radius: 100%;
    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
 
 #press {
