@@ -2,13 +2,31 @@
     background-color: #ff4c68;
 }
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 h1 {
     font-size: 3rem;
-    font-family: "Montserrat-Black";
+    font-family: 'Montserrat', sans-serif;
     font-weight: bolder;
     line-height: 1.5;
 }
 
 .container-fluid {
     padding:3% 15%;
+}
+
+.navbar-brand {
+    color: #ffffff;  
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.phone
+{
+-webkit-transform:rotate(22deg); /* Chrome, Safari, Opera */
+transform:rotate(22deg); /* Standard syntax */
+padding-top: 10%;
 }
